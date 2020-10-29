@@ -10,7 +10,7 @@
 
 <br/>  
 
-zzzMarinus van Holst, creator of the "On Rowing" website passed away in 2018, at 85 years of age.
+zzzzMarinus van Holst, creator of the "On Rowing" website passed away in 2018, at 85 years of age.
 
 A mechanical engineer and professor emeritus at Delft University of Technology, Marinus was also a member of the Dutch rowing clubs Nautilus and De Laak. Combining his interests in mechanical engineering and rowing, Marinus published many articles as well as a website on mechanics in rowing. 
 
