@@ -3,7 +3,7 @@
 
 
 <div style="text-align: right">
-  "Conclusion: The ergometer is a continuous source of pleasure."
+  "Conclusion: The ergometer is a continuous source of pleasure."</div>
 
 <div style="text-align: right; font-size: 0.8em">  
   Marinus van Holst in "Behind the ergometer display"</div>
