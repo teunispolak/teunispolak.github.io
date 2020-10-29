@@ -1,7 +1,7 @@
 ## On Rowing ##
 
 ```
-<div align="right">Conclusion: The ergometer is a continuous source of pleasure.</div>
+<div style="text-align: right">Conclusion: The ergometer is a continuous source of pleasure.</div>
 ```
 
 Marinus van Holst, creator of the "On Rowing" website passed away in 2018, at 85 years of age.
