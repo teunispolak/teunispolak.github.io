@@ -19,5 +19,5 @@ His website "On Rowing" contained the core of his ...
 
 As the original website (http://home.hccnet.nl/m.holst/RoeiWeb) is no longer active, I rebuilt the site from the pages collected by the Internet Archive Wayback Machine.
 
-A copy of the original website can now be found at https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb](https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb)
+A copy of the original website can now be found at [https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb](https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb)
 
