@@ -4,12 +4,12 @@
 
 <div style="text-align: right">
   <i>
-    "Conclusion: The ergometer is a continuous source of pleasure"
+    "Conclusion: The ergometer is a continuous source of pleasure."
   </i>
 </div>
 
 <div style="text-align: right; font-size: 0.8em">  
-  (Marinus van Holst, Behind the ergometer display)
+  - Marinus van Holst <sup>[1]</sup>
 </div>
 
 <br/>
