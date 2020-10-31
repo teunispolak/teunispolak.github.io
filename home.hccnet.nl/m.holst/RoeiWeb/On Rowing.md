@@ -14,7 +14,7 @@
 
 <br/>
 
-Marius van Holst was a mechanical engineer and professor emeritus at Delft University of Technology. He was also a member of the Dutch rowing clubs Nautilus and De Laak. Combining his interests in mechanical engineering and rowing, he published various articles on mechanics in rowing. Marinus passed away in 2018, at 85 years of age.
+Marinus van Holst was a mechanical engineer and professor emeritus at Delft University of Technology. He was also a member of the Dutch rowing clubs Nautilus and De Laak. Combining his interests in mechanical engineering and rowing, Marinus published various articles on mechanics in rowing. Marinus passed away in 2019, at 86 years of age.
 
 
 
