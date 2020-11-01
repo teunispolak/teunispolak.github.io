@@ -2,8 +2,13 @@
 
 Er is hoop. 
 
-Voor wie geen ergometer heeft. Twee spaces  
-Voor wie wel een ergometer heeft, maar geen monitor. <br/>Voor wie altijd al eens wilde weten hoe het nu zit met die ergometers. <br/>Voor wie gewoon veel te veel tijd over heeft. 
+Voor wie geen ergometer heeft. 
+Voor wie wel een ergometer heeft, maar geen monitor.
+
+Voor wie altijd al eens wilde weten hoe het nu zit met die ergometers.
+
+Voor wie gewoon veel te veel tijd over heeft.
+
 
 Er zijn namelijk allerlei knutselaars, nerds en woonkamergeleerden die het fenomeen ergometer tot op het bot hebben uitgezocht, beschreven en nagebouwd.
 
