@@ -2,10 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-/*
+/**
  * h6 {
  *    font-family: "Times New Roman", Times, serif;
- *}
+ * }
  */
  
  
@@ -13,9 +13,7 @@
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h6,
 %vertical-rhythm {
-  margin-bottom: spacing-unit / 4;
+  margin-bottom: spacing-unit 6px;
 }
