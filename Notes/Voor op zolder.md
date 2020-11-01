@@ -32,5 +32,3 @@ andere vriend met z'n monitor en chart.js
 
 
 Tot slot: er zijn ook nog mogelijkheden om al ergometerend een near-real rowing experience te ondergaan
-
-Notes/Voor op zolder.md
