@@ -13,7 +13,6 @@
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h6,
-%vertical-rhythm {
-  margin-bottom: spacing-unit 0.8em;
+h6 {
+  margin-bottom: 0.8em;
 }
