@@ -2,7 +2,7 @@
 
 Er is hoop. 
 
-Voor wie geen ergometer heeft.
+Voor wie geen ergometer heeft.  
 
 Voor wie wel een ergometer heeft, maar geen monitor.
 
