@@ -2,9 +2,9 @@
 
 Er is hoop. 
 
-Voor wie geen ergometer heeft.  
+Voor wie geen ergometer heeft. Twee spaces, enter.  
 
-Voor wie wel een ergometer heeft, maar geen monitor.
+Voor wie wel een ergometer heeft, maar geen monitor. Enter
 
 Voor wie altijd al eens wilde weten hoe het nu zit met die ergometers.
 
