@@ -13,4 +13,5 @@
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-	.markdown-body h6 { margin-bottom: 4px; }
+	.markdown-body h5, .markdown-body h6 
+	{ margin-bottom: 4px; }
