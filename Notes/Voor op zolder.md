@@ -10,7 +10,7 @@ Voor wie gewoon veel te veel tijd over heeft.<br/>
 
 Er zijn namelijk allerlei knutselaars, nerds en woonkamergeleerden die het fenomeen ergometer tot op het bot hebben uitgezocht, beschreven en nagebouwd.
 
-###### De geleerden
+##### De geleerden 5
 Anu Dadhia<br/>
 Cas Rekers<br/>
 en onze Marinus<br/>
@@ -22,7 +22,9 @@ over knutselaars gesproken: het is natuurlijk op een zolder begonnen, met een ou
 
 ###### De nerds
 
-evans met z'n monitor<br/>andere vriend met z'n monitor en chart.js
+evans met z'n monitor
+
+andere vriend met z'n monitor en chart.js
 
 
 
