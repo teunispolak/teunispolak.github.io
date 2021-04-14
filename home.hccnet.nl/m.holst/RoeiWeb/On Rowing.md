@@ -18,7 +18,14 @@ Marinus van Holst was a mechanical engineer and professor emeritus at Delft Univ
 
 
 
-His website "On Rowing" contained a collection of his articles but can no longer be found at its original address http://home.hccnet.nl/m.holst/RoeiWeb. As the site contained valuable information and is referenced from various places on the internet, I decided to reconstruct it from the pages collected by the Internet Archive Wayback Machine.
+His website "On Rowing" contained a collection of his articles but can no longer be found at its original address, http://home.hccnet.nl/m.holst/RoeiWeb. As the site contained valuable information and is referenced from various places on the internet, I decided to reconstruct it from the pages collected by the Internet Archive Wayback Machine.
 
 A copy of the original website can now be found at [https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb](https://teunispolak.github.io/home.hccnet.nl/m.holst/RoeiWeb)
 
+
+Since I could not retrieve the original files which Marinus used to create the documents on his website, I was unable to update the links in those documents. But as long as you navigate from the top page to the underlying pages and back, you will not notice. 
+
+
+November 2020,
+<br/>
+Teunis Polak
